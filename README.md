@@ -1,25 +1,27 @@
-# 👋 Hi, I’m Finn  
+# 👋 Hi, I’m Finn
 
-## 🚀 Über mich  
-Ich studiere derzeit **Robotics and Autonomous Systems** an der **Universität zu Lübeck**.  
-Meine Leidenschaft gilt unter anderem der **Softwareentwicklung für Hardware & Robotik**, aber ich bilde mich auch kontinuierlich in vielen anderen ingenieurstechnischen Bereichen weiter.  
+## 🚀 About Me  
+I’m currently studying **Robotics and Autonomous Systems** in my 3rd semester at **Universität zu Lübeck**.  
+My passion partly lies in **software development for hardware & robotics**, but I’m also constantly szudying in various engineering fields, such as classical- / quantum-mechanics, electrical engineering and also maths.  
 
-## 💡 Interessen  
-- Embedded Systems & Hardware-nahe Software  
-- Robotik & Automatisierung  
-- Maschinelles Lernen & KI in technischen Systemen  
-- Steuerungs- & Regelungstechnik  
-- 3D-Druck & Fertigungstechnologien  
+## 💡 Interests  
+- Embedded systems & low-level software  
+- Robotics & automation  
+- Machine learning & AI for technical systems  
+- Control systems & mechatronics  
 
-## 🔧 Aktuelle Projekte  
-Ich arbeite an verschiedenen Projekten im Bereich **Robotik & Softwareentwicklung**, darunter … *(hier kannst du eigene Projekte ergänzen!)*  
 
-## 🎯 Kollaboration & Kontakt  
-Ich bin offen für spannende Projekte & Kooperationen im Bereich **Robotik, Embedded Systems & Softwareentwicklung**.  
-📫 Erreichbar über GitHub oder per Mail: *[Hier deine Mail-Adresse oder Socials ergänzen]*  
+## 🔧 Current Projects  
+Currently I’m working on various projects related to **robotics & software development**, including … 
 
-⚡ **Fun Fact:** *Hier kannst du eine interessante oder lustige Info über dich einfügen!*  
+  - Software for Kinematics for Robot-arms
 
----
+  - an own LiDar-implementation
 
-✨ Lass uns gemeinsam an innovativen Lösungen arbeiten! 🚀  
+  - an own physics engine
+
+  - a board for reading various sensors such as strain gauges, hall sensors etc. for my racing team(Seagulls Luebeck)
+
+## 🎯 Collaboration & Contact  
+I’m open to exciting projects & collaborations in **robotics, embedded systems, and software development**.  
+📫 Reach me via GitHub or email: finn.ole.flemming@gmail.com
