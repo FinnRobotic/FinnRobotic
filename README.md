@@ -16,7 +16,7 @@ Currently I’m working on various projects related to **robotics & software dev
 
   - Software for Kinematics for Robot-arms
 
-  - an own LiDar-implementation
+  - an own simple SLAM-implementation
 
   - an own physics engine
 
